@@ -1,3 +1,3 @@
 <a href="https://backloggd.com/u/Shyn/games/">
-  <img src="https://img.shields.io/badge/Backloggd-1A1A1A?style=for-the-badge&logo=gamepad&logoColor=white" alt="Backloggd Profile" />
+  <img src="https://pbs.twimg.com/profile_images/1541908760607821824/3Am5dmsx_400x400.jpg" alt="Backloggd Profile" />
 </a>
